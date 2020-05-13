@@ -1,0 +1,24 @@
+.my-canvas {
+    display: flex;
+    background: #4472c4;
+}
+.my-canvas > div {
+    width: 200px;
+}
+.my-toolbar {
+    background: #e7e6e6;
+    border: 1px solid black;
+}
+.my-toolbar > img {
+    display: block;
+    cursor: move;
+}
+.split-rec, .split-circle, .split-triangle {
+    display: flex;
+}
+.split-rec:first-child {
+    margin-right: 20px;
+}
+.split-circle canvas {
+    margin-right: 20px;
+}

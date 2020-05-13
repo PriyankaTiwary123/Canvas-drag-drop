@@ -1,0 +1,23 @@
+{
+
+  "canvasDimensions": {
+  "rectangle":{
+      "width":"100",
+      "height":"100",
+      "color":"#ed7d31"
+  
+    },
+    "circle":{
+      "width":"100",
+      "height":"100",
+      "color":"#ffc003"
+    
+    },
+    "triangle":{
+      "width":"100",
+      "height":"100",
+      "color":"#70ad47"
+  
+  }
+  }
+  }
